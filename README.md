@@ -8,7 +8,7 @@
 - https://daneden.github.io/animate.css/
 
 
-### Guides
+## Guides
 
-#### Centering in css
+#### Centering In CSS
 -	https://css-tricks.com/centering-css-complete-guide/
