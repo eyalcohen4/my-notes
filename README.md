@@ -14,6 +14,9 @@
 -	[Centering in css](https://css-tricks.com/centering-css-complete-guide/)
 - [CSS Grid Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
+#### VIM 
+- [Moving Around](http://vim.wikia.com/wiki/Moving_around)
+
 ### Snippets
 #### Bash
 
