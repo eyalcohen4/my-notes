@@ -21,6 +21,11 @@
 #### CSS
 - [Material Design Box Shadow](https://codepen.io/sdthornton/pen/wBZdXq)
 
+### iOS Development
+- Reset and clear all simulators
+        xcrun simctl erase all
+
+
 ### Tools
 #### Javascript
 
