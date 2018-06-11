@@ -13,17 +13,18 @@
 - [Moving Around](http://vim.wikia.com/wiki/Moving_around)
 
 ### Snippets
+
+#### CSS
+- [Material Design Box Shadow](https://codepen.io/sdthornton/pen/wBZdXq)
+
 #### Bash
 
 - Delete all files old from date
 		find . -type f -mmin +130000 -exec rm {} \;
 
-#### CSS
-- [Material Design Box Shadow](https://codepen.io/sdthornton/pen/wBZdXq)
-
 ### iOS Development
 - Reset and clear all simulators
-        xcrun simctl erase all
+    xcrun simctl erase all
 
 
 ### Tools
